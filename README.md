@@ -47,7 +47,7 @@ The model was evaluated using appropriate metrics such as R-squared.
 
 ## Web Application (Planned)
 
-The next step is to develop a user-friendly web application that will allow users to input property details and receive price predictions from the trained model. The web application will be built using [Specify technologies, e.g., Flask, Django, Streamlit, etc.].
+The next step is to develop a user-friendly web application that will allow users to input property details and receive price predictions from the trained model.
 
 ## Acknowledgements
 
