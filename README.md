@@ -20,7 +20,7 @@ This project focuses on developing a machine learning model to predict real esta
 
 ## Data
 
-The model was trained on a dataset of over 10,000 real estate listings for properties in Bangalore. The dataset was obtained from [Specify data source, e.g., Kaggle, a web scraping project, etc.].
+The model was trained on a dataset of over 10,000 real estate listings for properties in Bangalore. The dataset was obtained from Kaggle
 
 *   **Data Size:** 10,000+ entries
 *   **Key Features:** square footage, number of bedrooms, location, etc.
